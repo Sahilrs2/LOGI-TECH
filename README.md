@@ -15,12 +15,12 @@ User-friendly Interface: Simplified UI/UX for easy navigation and usage.
 
 Technologies Used : 
 
-Frontend: Flutter / React Native (Specify which one you used)
+Frontend: Flutter
 
-Backend: Node.js / Django / Firebase (Specify the backend technology)
+Backend: Node.js
 
-Database: Firebase Firestore / PostgreSQL / MongoDB (Specify the database)
+Database: AWS MySQL Workbench
 
-Authentication: Firebase Auth / JWT-based Authentication (Specify authentication method)
+Authentication: JWT-based Authentication
 
-Cloud Services: AWS / Google Cloud / Azure (Specify if any cloud service is used)
+Cloud Services: AWS
