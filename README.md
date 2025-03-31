@@ -1,7 +1,7 @@
 # LOGI-TECH
 LOGI-TECH is a Smart Delivery Tracking Mobile Application designed for logistics companies to efficiently manage and monitor their truck drivers. This application helps track deliveries, endpoints, pickup points, kilometers driven, and daily attendance of truck drivers.
 
-Features
+Features : 
 
 Driver Account Management: Create and manage truck drivers' profiles.
 
@@ -13,7 +13,7 @@ Daily Attendance Tracking: Keep records of drivers' daily work logs.
 
 User-friendly Interface: Simplified UI/UX for easy navigation and usage.
 
-Technologies Used
+Technologies Used : 
 
 Frontend: Flutter / React Native (Specify which one you used)
 
