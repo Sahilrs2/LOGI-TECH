@@ -1,5 +1,5 @@
 # LOGI-TECH
-PRIME LOGS is a Smart Delivery Tracking Mobile Application designed for logistics companies to efficiently manage and monitor their truck drivers. This application helps track deliveries, endpoints, pickup points, kilometers driven, and daily attendance of truck drivers.
+LOGI-TECH is a Smart Delivery Tracking Mobile Application designed for logistics companies to efficiently manage and monitor their truck drivers. This application helps track deliveries, endpoints, pickup points, kilometers driven, and daily attendance of truck drivers.
 
 Features
 
