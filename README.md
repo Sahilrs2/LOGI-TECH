@@ -9,6 +9,8 @@ Real-time Delivery Tracking: Monitor delivery progress, including pickup and end
 
 Kilometers Driven: Automatically calculate the distance covered per trip.
 
+Location : Picking up the location co-ordinates
+
 Daily Attendance Tracking: Keep records of drivers' daily work logs.
 
 User-friendly Interface: Simplified UI/UX for easy navigation and usage.
